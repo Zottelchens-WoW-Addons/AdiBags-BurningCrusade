@@ -1,0 +1,20 @@
+filter_name = "Burning Crusade"
+filter_description = "Items from the Burning Crusade expansion."
+filter_author = "Zottelchen"
+prefixes = [
+    "BC",
+    "BC-",
+    "1.",
+    "icon:135891",
+    "icon:1380867",
+    "icon:1546412",
+    "icon:236412",
+    "icon:236418",
+]
+
+[replacers]
+ADDON_COLOR = 0x00BC04
+TOC_VERSION = "100005"
+CURSE_ID = ""
+WAGO_ID = ""
+WOW_INTERFACE_ID = ""
