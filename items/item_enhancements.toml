@@ -1,0 +1,53 @@
+category_name = "Temporary & Permanent Enhancements"
+category_color = 0x5A7684
+category_description = { _ = "Use these for a powerup!" }
+mergeable = true
+merged_by_default = true
+
+[permanent_enhancements]
+name = "Permanent Enhancements"
+description = { _ = "These are permanent enhancements that you can typically apply to armor to improve it." }
+color = 0x92AFD7
+items = [
+    23530,
+    23764,
+    23765,
+    23766,
+    24273,
+    24274,
+    24275,
+    24276,
+    25650,
+    25651,
+    25652,
+    29533,
+    29534,
+    29535,
+    29536,
+    33185,
+    34207,
+    34330,
+    34836,
+]
+
+[temporary_enhancements]
+name = "Temporary Enhancements"
+description = { _ = "These are temporary enhancements that you can typically apply to armor to improve it." }
+color = 0xC5D1EB
+items = [
+    22521,
+    22522,
+    23528,
+    23529,
+    23559,
+    23575,
+    23576,
+    25521,
+    25679,
+    28420,
+    28421,
+    31535,
+    34538,
+    34539,
+    34861,
+]
